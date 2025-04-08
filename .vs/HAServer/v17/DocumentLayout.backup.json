@@ -34,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -62,8 +58,7 @@
               "RelativeToolTip": "HAServer\\ServerGame.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:11:15.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:11:15.463Z"
             },
             {
               "$type": "Document",
@@ -75,8 +70,7 @@
               "RelativeToolTip": "HAServer\\HandlePlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:55:25.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T11:55:25.582Z"
             },
             {
               "$type": "Document",
@@ -86,7 +80,7 @@
               "RelativeDocumentMoniker": "HAServer\\Player.cs",
               "ToolTip": "C:\\Project\\Learn\\.Net\\HAServer\\HAServer\\Player.cs",
               "RelativeToolTip": "HAServer\\Player.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswEQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T10:23:39.772Z",
               "EditorCaption": ""
@@ -101,8 +95,7 @@
               "RelativeToolTip": "HAServer\\Constants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T10:23:13.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T10:23:13.946Z"
             },
             {
               "$type": "Document",
@@ -114,8 +107,11 @@
               "RelativeToolTip": "HAServer\\Program.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T10:19:24.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T10:19:24.13Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

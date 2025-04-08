@@ -18,3 +18,4 @@ C:\Project\Learn\.Net\HAServer\HAServer\obj\Debug\net9.0\HAServer.genruntimeconf
 C:\Project\Learn\.Net\HAServer\HAServer\obj\Debug\net9.0\ref\HAServer.dll
 C:\Project\Learn\.Net\HAServer\HAServer\bin\Debug\net9.0\BepuPhysics.dll
 C:\Project\Learn\.Net\HAServer\HAServer\bin\Debug\net9.0\BepuUtilities.dll
+C:\Project\Learn\.Net\HAServer\HAServer\obj\Debug\net9.0\HAServer.sourcelink.json

@@ -44,6 +44,31 @@
           }
         }
       },
+      "PlayFabAllSDK/1.198.250328": {
+        "type": "package",
+        "dependencies": {
+          "Polly": "7.2.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/PlayFabAllSDK.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/PlayFabAllSDK.dll": {}
+        }
+      },
+      "Polly/7.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Polly.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "RiptideNetworking.Riptide/2.2.0": {
         "type": "package",
         "compile": {
@@ -118,6 +143,44 @@
         "packageIcon.png"
       ]
     },
+    "PlayFabAllSDK/1.198.250328": {
+      "sha512": "Uob9LXKe9Fe8hqrR9TmpteBkv/QdWkRW1EQm+iIOT6ZtHUFFQBLAXBGdt0sjzmyRVHMgA0tW2D/Qkmrq41uesQ==",
+      "type": "package",
+      "path": "playfaballsdk/1.198.250328",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/netstandard2.0/PlayFabAllSDK.dll",
+        "playfaballsdk.1.198.250328.nupkg.sha512",
+        "playfaballsdk.nuspec"
+      ]
+    },
+    "Polly/7.2.3": {
+      "sha512": "DeCY0OFbNdNxsjntr1gTXHJ5pKUwYzp04Er2LLeN3g6pWhffsGuKVfMBLe1lw7x76HrPkLxKEFxBlpRxS2nDEQ==",
+      "type": "package",
+      "path": "polly/7.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Polly.png",
+        "lib/net461/Polly.dll",
+        "lib/net461/Polly.pdb",
+        "lib/net461/Polly.xml",
+        "lib/net472/Polly.dll",
+        "lib/net472/Polly.pdb",
+        "lib/net472/Polly.xml",
+        "lib/netstandard1.1/Polly.dll",
+        "lib/netstandard1.1/Polly.pdb",
+        "lib/netstandard1.1/Polly.xml",
+        "lib/netstandard2.0/Polly.dll",
+        "lib/netstandard2.0/Polly.pdb",
+        "lib/netstandard2.0/Polly.xml",
+        "polly.7.2.3.nupkg.sha512",
+        "polly.nuspec"
+      ]
+    },
     "RiptideNetworking.Riptide/2.2.0": {
       "sha512": "pNEweYDBp76VpPSWmMhWm5/voGuu+CGUetdZMecUEiIoChl9EbvS5PAFoJAcaBCNtrP8XaDMsxd1VCuDfLQAsg==",
       "type": "package",
@@ -138,6 +201,7 @@
     "net9.0": [
       "BepuPhysics >= 2.4.0",
       "Newtonsoft.Json >= 13.0.3",
+      "PlayFabAllSDK >= 1.198.250328",
       "RiptideNetworking.Riptide >= 2.2.0"
     ]
   },
@@ -198,6 +262,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
+          },
+          "PlayFabAllSDK": {
+            "target": "Package",
+            "version": "[1.198.250328, )"
           },
           "RiptideNetworking.Riptide": {
             "target": "Package",

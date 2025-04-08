@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[13.0.3, )"
             },
+            "PlayFabAllSDK": {
+              "target": "Package",
+              "version": "[1.198.250328, )"
+            },
             "RiptideNetworking.Riptide": {
               "target": "Package",
               "version": "[2.2.0, )"

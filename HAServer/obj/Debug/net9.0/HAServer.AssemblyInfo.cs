@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HAServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+591ae6b7b003213197edfce97709587055abce0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HAServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HAServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
